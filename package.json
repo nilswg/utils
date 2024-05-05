@@ -1,0 +1,16 @@
+{
+    "name": "@nilswg/utils",
+    "version": "0.0.1",
+    "main": "./index.ts",
+    "description": "Some utils for personal use, and only for typescript",
+    "author": "nilswg",
+    "license": "ISC",
+    "publishConfig": {
+      "access": "public",
+      "registry": "https://registry.npmjs.org/"
+    },
+    "peerDependencies": {
+        "class-variance-authority": "^0.7.0",
+        "tailwind-merge": "^2.2.2"
+    }
+}
